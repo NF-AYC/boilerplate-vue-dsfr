@@ -82,8 +82,8 @@ npm run lint
 ```
 
 ## Doc des compoasant DSFR :
- - documentation :
- - storybook
+ - documentation : https://docs.vue-ds.fr/guide/
+ - storybook : https://storybook.vue-ds.fr/?path=/docs/docs-1-introduction--docs
 
 ### Import dans vos composants :
 Pour importer un composant de vue-dsfr (DsfrButton par exemple) :
