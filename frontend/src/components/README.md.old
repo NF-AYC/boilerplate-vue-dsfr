@@ -1,0 +1,9 @@
+# Composants atomiques
+Les composants doivent être "atomique", (c'est à dire qu'ils ne doivent pas importer d'autres composants).
+
+Ils ne doivent pas contenir de dépendance (par exemple à store).
+
+Il peuvent avoir :
+ - des props
+ - des slots
+et peuvent émettre des évènements.
